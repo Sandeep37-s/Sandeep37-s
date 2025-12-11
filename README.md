@@ -3,7 +3,7 @@
 <h3 align="center">🎓 B.Tech CSE Student | AI & ML |GEN AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2CB&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;AI+%26+from+India;Always+Learning+New+Things!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2CB&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;AI+%26+ML+from+India;Always+Learning+New+Things!+🚀" alt="Typing SVG" />
 </p>
 
 ---
