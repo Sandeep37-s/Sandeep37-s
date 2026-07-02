@@ -1,0 +1,84 @@
+<svg width="700" height="400" viewBox="0 0 700 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6a11cb"/>
+      <stop offset="50%" stop-color="#2575fc"/>
+      <stop offset="100%" stop-color="#00d4ff"/>
+    </linearGradient>
+    <style>
+      .lbl { font-family: 'Segoe UI', 'JetBrains Mono', monospace; font-size: 14px; fill: #c9d1d9; }
+      .pct { font-family: 'Segoe UI', 'JetBrains Mono', monospace; font-size: 13px; fill: #8b949e; }
+      .ttl { font-family: 'Segoe UI', 'JetBrains Mono', monospace; font-size: 18px; font-weight: 700; fill: #ffffff; }
+    </style>
+  </defs>
+
+  <rect width="700" height="400" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="698" height="398" rx="17" fill="none" stroke="#21262d" stroke-width="2"/>
+
+  <text x="24" y="38" class="ttl">⚡ Skill Proficiency</text>
+
+  <!-- Row template: label, track, animated fill, percentage -->
+  <!-- Python 92% -->
+  <text x="24" y="76" class="lbl">Python</text>
+  <text x="676" y="76" text-anchor="end" class="pct">92%</text>
+  <rect x="24" y="84" width="652" height="9" rx="4.5" fill="#21262d"/>
+  <rect x="24" y="84" height="9" rx="4.5" fill="url(#barGrad)">
+    <animate attributeName="width" from="0" to="600" dur="1.2s" begin="0.1s" fill="freeze"/>
+  </rect>
+
+  <!-- Machine Learning 88% -->
+  <text x="24" y="118" class="lbl">Machine Learning</text>
+  <text x="676" y="118" text-anchor="end" class="pct">88%</text>
+  <rect x="24" y="126" width="652" height="9" rx="4.5" fill="#21262d"/>
+  <rect x="24" y="126" height="9" rx="4.5" fill="url(#barGrad)">
+    <animate attributeName="width" from="0" to="574" dur="1.2s" begin="0.25s" fill="freeze"/>
+  </rect>
+
+  <!-- Deep Learning 82% -->
+  <text x="24" y="160" class="lbl">Deep Learning</text>
+  <text x="676" y="160" text-anchor="end" class="pct">82%</text>
+  <rect x="24" y="168" width="652" height="9" rx="4.5" fill="#21262d"/>
+  <rect x="24" y="168" height="9" rx="4.5" fill="url(#barGrad)">
+    <animate attributeName="width" from="0" to="535" dur="1.2s" begin="0.4s" fill="freeze"/>
+  </rect>
+
+  <!-- Generative AI / LLMs 85% -->
+  <text x="24" y="202" class="lbl">Generative AI / LLMs</text>
+  <text x="676" y="202" text-anchor="end" class="pct">85%</text>
+  <rect x="24" y="210" width="652" height="9" rx="4.5" fill="#21262d"/>
+  <rect x="24" y="210" height="9" rx="4.5" fill="url(#barGrad)">
+    <animate attributeName="width" from="0" to="554" dur="1.2s" begin="0.55s" fill="freeze"/>
+  </rect>
+
+  <!-- Computer Vision 78% -->
+  <text x="24" y="244" class="lbl">Computer Vision</text>
+  <text x="676" y="244" text-anchor="end" class="pct">78%</text>
+  <rect x="24" y="252" width="652" height="9" rx="4.5" fill="#21262d"/>
+  <rect x="24" y="252" height="9" rx="4.5" fill="url(#barGrad)">
+    <animate attributeName="width" from="0" to="509" dur="1.2s" begin="0.7s" fill="freeze"/>
+  </rect>
+
+  <!-- NLP 78% -->
+  <text x="24" y="286" class="lbl">NLP</text>
+  <text x="676" y="286" text-anchor="end" class="pct">78%</text>
+  <rect x="24" y="294" width="652" height="9" rx="4.5" fill="#21262d"/>
+  <rect x="24" y="294" height="9" rx="4.5" fill="url(#barGrad)">
+    <animate attributeName="width" from="0" to="509" dur="1.2s" begin="0.85s" fill="freeze"/>
+  </rect>
+
+  <!-- React / Next.js 65% -->
+  <text x="24" y="320" class="lbl">React / Next.js</text>
+  <text x="676" y="320" text-anchor="end" class="pct">65%</text>
+  <rect x="24" y="328" width="652" height="9" rx="4.5" fill="#21262d"/>
+  <rect x="24" y="328" height="9" rx="4.5" fill="url(#barGrad)">
+    <animate attributeName="width" from="0" to="424" dur="1.2s" begin="1s" fill="freeze"/>
+  </rect>
+
+  <!-- SQL & Databases 72% -->
+  <text x="24" y="362" class="lbl">SQL &amp; Databases</text>
+  <text x="676" y="362" text-anchor="end" class="pct">72%</text>
+  <rect x="24" y="370" width="652" height="9" rx="4.5" fill="#21262d"/>
+  <rect x="24" y="370" height="9" rx="4.5" fill="url(#barGrad)">
+    <animate attributeName="width" from="0" to="469" dur="1.2s" begin="1.15s" fill="freeze"/>
+  </rect>
+</svg>
