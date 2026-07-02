@@ -74,7 +74,7 @@ print(me.motto())
 ## ⚡ Skill Proficiency
 
 <p align="center">
-<img src="assets/skillbars.svg" width="700"/>
+<img src="skillbars.svg" width="700"/>
 </p>
 
 ---
@@ -82,7 +82,7 @@ print(me.motto())
 ## 🌐 Currently Exploring
 
 <p align="center">
-<img src="assets/orbit.svg" width="440"/>
+<img src="orbit.svg" width="440"/>
 </p>
 
 ---
