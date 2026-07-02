@@ -7,13 +7,14 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=850&height=60&lines=AI+Engineer+%F0%9F%A4%96;Machine+Learning+Developer+%F0%9F%93%88;Generative+AI+Enthusiast+%E2%9C%A8;Computer+Vision+%F0%9F%91%81%EF%B8%8F;Natural+Language+Processing+%F0%9F%92%AC;Always+Learning+New+Things+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&height=60&lines=AI+Engineer+%F0%9F%A4%96;Machine+Learning+Developer+%F0%9F%93%88;Generative+AI+Enthusiast+%E2%9C%A8;Computer+Vision+%F0%9F%91%81%EF%B8%8F;Natural+Language+Processing+%F0%9F%92%AC;Always+Learning+New+Things+%F0%9F%9A%80"/>
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sandeep-kumar-r21831301"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Sandeep37-s"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:sandeep22112002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/github/followers/Sandeep37-s?label=Followers&style=for-the-badge&color=6a11cb&logo=github"/>
 </p>
 
 <p align="center">
@@ -70,42 +71,19 @@ print(me.motto())
 
 ---
 
-## 🌟 Currently Learning
+## ⚡ Skill Proficiency
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=A277FF&center=true&vCenter=true&width=650&lines=%F0%9F%A4%96+LLM+Engineering;%F0%9F%A7%A0+Agentic+AI;%E2%98%81%EF%B8%8F+Cloud+Deployment;%E2%9A%A1+MLOps;%F0%9F%93%88+Advanced+Machine+Learning"/>
+<img src="assets/skillbars.svg" width="700"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Currently Exploring
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sandeep37-s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep37-s&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="assets/orbit.svg" width="440"/>
 </p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep37-s&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandeep37-s&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Sandeep37-s/Sandeep37-s/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-> 💡 To activate this, add the **[Snake GitHub Action](https://github.com/Platane/snk)** to your profile repo — it auto-generates an animated snake that "eats" your contribution graph.
 
 ---
 
@@ -113,42 +91,38 @@ print(me.motto())
 
 <table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🦁 WildGuard AI
 AI-powered Wildlife Crime Reporting System
+<br/><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-CV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ❤️ AyuScan
 AI Health Analyzer using Computer Vision
+<br/><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📄 RAG PDF Reader
 Chat with PDFs using LangChain + LLM
+<br/><img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/> <img src="https://img.shields.io/badge/-LLM-412991?style=flat-square&logo=openai&logoColor=white"/>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📈 Financial Research Agent
 Multi-Agent AI Research Platform
+<br/><img src="https://img.shields.io/badge/-Agentic%20AI-2575FC?style=flat-square&logo=robotframework&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 </td>
 </tr>
 </table>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sandeep37-s&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7"/>
-</p>
 
 ---
 
@@ -174,14 +148,6 @@ Multi-Agent AI Research Platform
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Sandeep37-s&label=Profile+Views&style=for-the-badge&color=blue"/>
-</p>
-
----
-
-## 💡 Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
