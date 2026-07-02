@@ -13,12 +13,6 @@ Hi 👋 I'm Sandeep Kumar
 
 ---
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Sandeep37-s/Sandeep37-s/output/github-contribution-grid-snake-dark.svg">
-</p>
-
----
-
 # 🚀 About Me
 
 ```python
