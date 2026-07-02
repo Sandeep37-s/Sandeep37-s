@@ -66,9 +66,9 @@ me = Sandeep()
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sandeep37-s&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sandeep37-s&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep37-s&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Sandeep37-s&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -78,7 +78,7 @@ me = Sandeep()
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep37-s&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sandeep37-s&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
